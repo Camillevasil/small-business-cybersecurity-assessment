@@ -1,0 +1,42 @@
+Cybersecurity Risk Matrix
+Purpose
+This risk matrix prioritizes cybersecurity risks identified during the simulated small-business assessment.
+Risks are evaluated based on their potential impact to the organization and the likelihood that the risk could occur.
+Risk Ratings
+Risk	Likelihood	Impact	Overall Priority
+No multi factor authentication	High	High	Critical
+Shared or reused passwords	High	High	Critical
+Excessive user permissions	Medium	High	High
+Lack of tested backups	Medium	High	High
+Phishing attacks	High	Medium	High
+Inactive accounts not removed	Medium	Medium	Medium
+Lack of security awareness training	Medium	Medium	Medium
+Risk Prioritization
+Critical
+Multi factor authentication
+Accounts without MFA are at increased risk if credentials are compromised. Critical business accounts should have MFA enabled as a priority.
+Shared or Reused Passwords
+Shared or reused credentials make it more difficult to identify account activity and increase the potential impact of a compromised password.
+High
+Excessive User Permissions
+Users should only have access necessary to perform their responsibilities.
+Lack of Tested Backups
+Backups should be maintained and periodically tested to ensure that important information can be recovered.
+Phishing attacks
+Phishing can result in stolen credentials, malware infections, financial fraud, or unauthorized access.
+Medium
+Inactive accounts
+Accounts belonging to former employees or inactive users should be disabled or removed promptly.
+Lack of Security Awareness Training
+Employees should receive basic training on phishing, passwords, MFA, suspicious messages, and security reporting procedures.
+Recommended Order of Action
+Enable MFA on critical accounts.
+Eliminate shared and reused passwords.
+Review administrator and user permissions.
+Establish and test a reliable backup process.
+Implement phishing awareness training.
+Establish an employee account offboarding process.
+Review security controls periodically.
+Conclusion
+Risk prioritization allows a small organization to focus limited time and resources on the cybersecurity issues that could have the greatest impact.
+The highest priority recommendations in this assessment focus on account security, access control, and data recovery.
