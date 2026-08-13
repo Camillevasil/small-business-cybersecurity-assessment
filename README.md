@@ -72,13 +72,13 @@ Priority
 Medium
 5. Recommended Security Improvements
 Priority	Recommendation
-High	Enable MFA on critical accounts
-High	Eliminate shared passwords and accounts
-High	Review administrator privileges
-High	Establish and test backups
-Medium	Conduct regular access reviews
-Medium	Implement phishing-awareness training
-Medium	Establish an employee off-boarding process
+High,	enable MFA on critical accounts
+High,	eliminate shared passwords and accounts
+High,	review administrator privileges
+High,	establish and test backups
+Medium,	conduct regular access reviews
+Medium,	implement phishing-awareness training
+Medium,	establish an employee off-boarding process
 Implementation Plan
 First 7 Days
 Enable MFA on critical accounts.
